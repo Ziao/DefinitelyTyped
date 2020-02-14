@@ -153,6 +153,8 @@ declare module '../../index' {
 
         /**
          *   Linear interpolate the vector to another vector
+         *   @param v1 {Vector} The first vector (to interpolate from)
+         *   @param v2 {Vector} The second vector (to interpolate to)
          *   @param amt the amount of interpolation; some value
          *   between 0.0 (old vector) and 1.0 (new vector). 0.9
          *   is very near the new vector. 0.5 is halfway in
@@ -164,6 +166,8 @@ declare module '../../index' {
 
         /**
          *   Linear interpolate the vector to another vector
+         *   @param v1 {Vector} The first vector (to interpolate from)
+         *   @param v2 {Vector} The second vector (to interpolate to)
          *   @param amt the amount of interpolation; some value
          *   between 0.0 (old vector) and 1.0 (new vector). 0.9
          *   is very near the new vector. 0.5 is halfway in
