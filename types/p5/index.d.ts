@@ -2,6 +2,7 @@
 // Project: https://github.com/processing/p5.js
 // Definitions by: p5-types <https://github.com/p5-types>
 //                 Pierre Krafft <https://github.com/Zalastax>
+//                 Nick Kamer <https://github.com/ziao>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.9
 
